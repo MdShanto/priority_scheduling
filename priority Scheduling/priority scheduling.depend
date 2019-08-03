@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562433756 source:f:\operating system lab\priority scheduling\main.cpp
+	<iostream>
+	<cstring>
+
